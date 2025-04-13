@@ -20,3 +20,6 @@
 
 ## 📈 GitHub Activity
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-sartipi&layout=compact&theme=radical)
+## 📊 GitHub Stats
+
+![Hossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hossein-sartipi&show_icons=true&theme=radical)
