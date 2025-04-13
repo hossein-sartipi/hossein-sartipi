@@ -17,6 +17,3 @@
 
 ## 🚀 Projects
 - 🔢 [Lagrange Interpolation Calculator](https://github.com/hossein-sartipi/Lagrange-Interpolation)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-sartipi&layout=compact)
-![snake gif](https://github.com/hossein-sartipi/hossein-sartipi/blob/output/github-contribution-grid-snake.svg)
