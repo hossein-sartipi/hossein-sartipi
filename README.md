@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Hossein!
 
-<!--
-**hossein-sartipi/hossein-sartipi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a computer science student with a passion for mathematics and coding.  
+🐍 I enjoy building projects in **Python**, especially ones that involve logic, math, and algorithms.
 
-Here are some ideas to get you started:
+## 🧠 Interests
+- Math-based projects
+- Python scripting and automation
+- Learning about logic, set theory, and computation theory
+- Making tools that help others learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- Python, Markdown, LaTeX
+- Git & GitHub
+- SymPy (symbolic math)
+- Terminal / CLI tools
+
+## 🚀 Projects
+- 🔢 [Lagrange Interpolation Calculator](https://github.com/hossein-sartipi/Lagrange-Interpolation)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-sartipi&layout=compact)
+![snake gif](https://github.com/hossein-sartipi/hossein-sartipi/blob/output/github-contribution-grid-snake.svg)
